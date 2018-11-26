@@ -7,7 +7,7 @@ Setup
     git clone https://github.com/okrajni/test-app.git
     cd test-app
     npm install
-    npm install protractor
+    npm install -g protractor
     npm install protractor-beautiful-reporter --save-dev
     webdriver-manager update
     webdriver-manager start
