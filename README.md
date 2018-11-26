@@ -1,5 +1,5 @@
 # test-app
-Automatiomiot test - Protractor
+test app for AnyMind login flow - Protractor
 
 Setup
 -----
