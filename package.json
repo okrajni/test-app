@@ -1,0 +1,19 @@
+{
+  "name": "test-app",
+  "version": "1.0.0",
+  "description": "test app for AnyMind login flow - Protractor",
+  "main": "conf.js",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okrajni/test-app.git"
+  },
+  "author": "joanna okrajni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okrajni/test-app/issues"
+  },
+  "homepage": "https://github.com/okrajni/test-app#readme"
+}
